@@ -84,23 +84,7 @@ for row in TableRows:
     value = row.find("td").text
     ProductInfo[key] = value
 
+input("Press Enter to close")
 
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-input("Tarayıcıyı kapatmak için Enter'a basın...")
 
 
